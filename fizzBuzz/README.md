@@ -1,6 +1,8 @@
-#FizzBuzz
+FizzBuzz
+=======================================================
 
-##Probem description
+Probem description
+--------------------
 
 Given an integer n, return a string array answer (1-indexed) where:
 
@@ -28,6 +30,6 @@ Given an integer n, return a string array answer (1-indexed) where:
 
     1 <= n <= 104
 
-  *[See Leetcode Problem description](https://leetcode.com/problems/fizz-buzz/description/)*.
+  *[See fizzBuzz problem description in Leetcode](https://leetcode.com/problems/fizz-buzz/description/)*.
 
 
